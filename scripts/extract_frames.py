@@ -6,8 +6,10 @@ import numpy
 # import the necessary packages
 import cv2
 
-src = '/media/ligong/Picasso/Share/cbimfs/Research/MURI/aligned-r3'
-dst = '/media/ligong/Picasso/Datasets/muri/frames-r3'
+# src = '/media/ligong/Picasso/Share/cbimfs/Research/MURI/aligned-r3'
+# dst = '/media/ligong/Picasso/Datasets/muri/frames-r3'
+src = '/home/lh599/Research/MURI/aligned-r3'
+dst = '/home/lh599/Data/muri/frames-r3'
 fmt = 'img_%05d.jpg'
 fps = 5
 
